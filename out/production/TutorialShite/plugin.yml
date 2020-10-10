@@ -1,0 +1,4 @@
+name: TutorialPlugin
+version: 1.0.0
+main: me.CodeConduit.TutorialShite.Main
+author: CodeConduit
